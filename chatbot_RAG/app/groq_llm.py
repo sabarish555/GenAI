@@ -2,7 +2,7 @@ import os
 import requests
 
 # Get API key from environment
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "please enter your api key here"
 #os.getenv("GROQ_API_KEY")  # You can also load from .env
 
 # Groq endpoint and model
