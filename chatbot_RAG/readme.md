@@ -16,12 +16,15 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers employee questions a
 
 ---
 
-## 📦 Installation
+### 📦 Installation
 
 Install dependencies:
 
-```bash
+bash
 pip install -r requirements.txt
+
+---
+
 ## ▶️ How to Use
 
 ### 📥 Add Your PDFs
@@ -38,8 +41,10 @@ pip install -r requirements.txt
 
 ### 🧪 CLI Mode
 
-```bash
+bash
 python main.py
+
+---
 
 ## 🔧 Tech Stack
 
