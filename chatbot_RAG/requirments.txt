@@ -1,0 +1,7 @@
+sentence-transformers
+chromadb
+PyMuPDF
+fastapi
+uvicorn
+requests
+gradio>=4.0.0
